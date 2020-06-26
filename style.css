@@ -1,9 +1,13 @@
 html{
-    background: linear-gradient(to right, #780206, #061161);
-    height: 100%; width: 100%; background-repeat: no-repeat;
-    background-size: cover; 
-}
+	background: linear-gradient(to right, #780206, #061161);
+    background-size: cover;
+    height: 100%; width: 100%; 
+	}
 
+#particles-js{
+	 background: linear-gradient(to right, #780206, #061161);
+	 background-size: cover;
+}
 .tm{
   font-size: 120px;
   color: White;
